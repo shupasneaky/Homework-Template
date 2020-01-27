@@ -1,0 +1,40 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{cochineal}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{xfrac}
+\usepackage{amssymb}
+\usepackage{pgfplots}
+\usepackage[a4paper, margin=54pt]{geometry}
+
+
+
+%homework title
+\pgfplotsset{compat=1.16}
+
+\begin{document}
+\vspace*{-30pt}
+\begin{center}
+\begin{title}
+\vskip
+      \Large{\textbf{Homework 3}}\\   % Homework Number
+      \vspace*{0pt}
+      \normalsize{\textbf{STA6106}}\\ % Class
+      \vspace*{5pt}
+      \large\text{Owen Visser}        % Name
+\end{title}
+\end{center}
+\vspace*{20pt}
+
+
+%Problem 1
+
+    
+ 
+\end{document}
+
